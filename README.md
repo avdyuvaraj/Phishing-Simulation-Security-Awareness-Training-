@@ -35,8 +35,4 @@ This project was built to practice:
 - Security awareness training and communication
 - Translating a technical attack into practical, actionable guidance for a non-technical audience
 
-## Future Improvements
 
-- Expand to cover additional phishing vectors (email-based phishing, QR code phishing)
-- Add a post-training quiz to measure awareness improvement
-- Build a simple phishing-detection checklist handout for participants
